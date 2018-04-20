@@ -1,1 +1,1 @@
-# activit-github
+# activit-githu
